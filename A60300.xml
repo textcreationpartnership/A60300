@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Henry Vane's last sigh for the Committee of Safety breathed forth in discourses and conferences with the Right Honorable Vice-Admiral Lawson, on the seventeenth of December, 1659, aboard the Great James.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60300</idno>
+            <idno type="STC">Wing S3877A</idno>
+            <idno type="STC">ESTC R13124</idno>
+            <idno type="EEBO-CITATION">11914553</idno>
+            <idno type="OCLC">ocm 11914553</idno>
+            <idno type="VID">50895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50895)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Henry Vane's last sigh for the Committee of Safety breathed forth in discourses and conferences with the Right Honorable Vice-Admiral Lawson, on the seventeenth of December, 1659, aboard the Great James.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vane, Henry, --  Sir, 1612?-1662 --  Caricatures and cartoons.</term>
+               <term>Lawson, John, --  Sir, d. 1665 --  Caricatures and cartoons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50895:1" rendition="simple:additions"/>
+            <p>Sir HARRY VANE'S LAST SIGH FOR The Committee of Safety, Breathed forth in Diſcourſes and Conferences with the Right Honorable, VICE-ADMIRAL LAWSON, On the Seventeenth of <hi>December</hi>
+1659. aboard the GREAT JAMES.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year of our Lord. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50895:2"/>
+            <pb n="3" facs="tcp:50895:2"/>
+            <head>Sir <hi>HARRY VANE'S laſt Sigh for the Committee of Safety,</hi> &amp;c.</head>
+            <p>
+               <hi>THe Committee of Safety,</hi> and the moſt Illuſtrious Council of Officers aſſembled at <hi>Wallingford</hi> Houſe, having received the ſad and doleful news of <hi>Lawſons</hi> Revolt from their depraved Deſigns, were now in a peck of Troubles: Hath he, quoth they, forſaken us in the midſt of our adverſities, and deſerted us in the moſt unfortunate Juncture of our Calamities? At this they ſighed, and looked demurely toward Hea<g ref="char:EOLhyphen"/>ven, yet not ſo, but that a man might perceive ſuch a kinde of malice mixt therewith, as threatned God him<g ref="char:EOLhyphen"/>ſelf for not giving a ſatisfactory anſwer to the demands of their late publick and private Faſts. From lament<g ref="char:EOLhyphen"/>ing they fell to debating, and after they had turn'd over all the
+<hi>leaves</hi> of their Imaginations, they could finde but one Receipt to ſtop the bleeding Wound of their almoſt periſhing Intereſt: For to revive their dull and drooping ſpirits, up ſteps Sir <hi>Harry Vane,</hi> who opening his mouth, thus beſpake the <hi>Congregation of Warlike Saints,</hi> Quoth he, I did not think, dear Bre<g ref="char:EOLhyphen"/>thren, I profeſs I did not think our late Vice-Admiral would have left us in the Suds (God grant we may ſcape their ſcowring) I thought he had been a ſurer <hi>Card,</hi> I thought we might have plaid with him ſecurely, and that he would have prov'd a <hi>Trump,</hi> yea a conſtant <hi>Van Trump</hi> unto us, even to the winning of our Game, but it ſeems it proves otherwiſe, yet it may be that I
+<pb n="4" facs="tcp:50895:3"/>may reclaim him for all this; I am ſure he ows muc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto me, for when he was but an infant, and knew no<g ref="char:EOLhyphen"/>thing of
+<hi>miſchief,</hi> I ſuckled him with the ſweet milk of <hi>State Policy,</hi> I brought him into employment, and taught him to climb the <hi>ſhaouds</hi> of <hi>Preferment,</hi> and ha<g ref="char:EOLhyphen"/>ving nurſed him to full maturity, placed him where he is, <note n="*" place="margin">
+                  <hi>But</hi> Ahito<g ref="char:EOLhyphen"/>phel <hi>was mi<g ref="char:EOLhyphen"/>ſtaken, and therefore may now go ſet his houſe in order.</hi>
+               </note> hoping that he would prove unto us the <hi>Inſtru<g ref="char:EOLhyphen"/>ment of our ſalvation;</hi> therefore I will go ſpeak with him, and put home his ingratitude to his heart, and if his heart be not over hardned, I may perchance cauſe him to relent. Oh, quoth <hi>Fleetwood,</hi> talk not of ingra<g ref="char:EOLhyphen"/>titude, and then weeping more bitterly than St <hi>Peter,</hi> my ingratitude, ſaid he, hath undone me, for I pull'd out my Brother in Law by the ears, for which I could now tear my fleſh; what hopes have we to finde him other wiſe than ingrateful, that were ſo our ſelves? But Sir <hi>Harry</hi> commending the oylineſs of his <hi>tongue,</hi> and his
+<hi>Ulyſſes</hi>-like ſubtilty, prevail'd with them that he might make a tryal of them both, and was forth with commanded, without delay, to make the utmoſt proof of his skill in that their time of diſtreſs. Now that he might not go alone, there were added to him Major
+<hi>Sa<g ref="char:EOLhyphen"/>loway,</hi> in whom they imagin'd there was much Oratory, becauſe he once dealt in
+<hi>Raiſons,</hi> and Mr. <hi>Thankful Owen,</hi> a Prieſt of a late <hi>Edition,</hi> one who having miſt the great Harveſt wherein <hi>Marſhal, Nye,</hi> and <hi>Peters</hi> reap'd, is now come into play, thinking to pick up the <hi>gleanings</hi> of <hi>Ephraim,</hi> whoſe buſineſs doubtleſs was to urge <hi>Scripture,</hi> and with his <hi>Chriſten name</hi> to put the Vice-admiral in mind of Sir <hi>Harry</hi>'s former kindneſſes; with theſe went along one Mr. <hi>Courtney,</hi> famous for nothing, but that he was a chip of the ſame block.
+<pb n="5" facs="tcp:50895:3"/>On the 17. inſtant they went aboard the <hi>James,</hi> where they found the Vice-Admiral not alone, but having his Aſſiſtants with him, Colonel <hi>Okey,</hi> and Mr.
+<hi>Scot,</hi> one able to encounter the ſubtilties of Sir <hi>Harry,</hi> well know<g ref="char:EOLhyphen"/>ing every chink and cranny of his brain. Then retreat<g ref="char:EOLhyphen"/>ing into the great Cabin, they fell to work.</p>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Vice-Admiral, I am come.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>I ſee you are come, but to what pur<g ref="char:EOLhyphen"/>poſe I know not; had your Lady come, I might have thought ſhe had longed to eat ſome of our Ship-Beef.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>I ſay Sir, I am come from the Committee of <hi>Safety.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>No, but you are not; for you are come from the Committee of <hi>Danger,</hi> or to ſpeak more properly, you are come from the Committee <hi>in Dan<g ref="char:EOLhyphen"/>ger.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>They may thank you for it.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>I know no reaſon I have given them to be ſo courteous: but I have heard that there is craft in courteſie, which I believe is the reaſon that you give me this viſit.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>'Tis the good of the Commonwealth that draws me hither.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>Truly I cannot believe it; for you yet bear about you the badge of Kingſhip, and your Name ſtill wears a Title received from Monarchy.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>My wife will not let me leave it off, out of a reſolution ſhe has to dye a Lady.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>But to board your grand Deſign: What is your Errand hither? I know you have ſeen a great Ship before; there was never a one launch'd, but
+<pb n="6" facs="tcp:50895:4"/>you were invited aboard, when you were a Commiſ<g ref="char:EOLhyphen"/>ſioner of the Navy. You got ſweetly by that, Sir <hi>Harry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>And ſo may you get too, if you'll be rul'd by me.</p>
+            </sp>
+            <sp>
+               <speaker>Owen.</speaker>
+               <p>Sir, you have put your hand to the Plough, and it is a great ſin to draw it back.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>Sir, I am not to anſwer for that ſin, let it light on the head of your Major General
+<hi>Diſ<g ref="char:EOLhyphen"/>borow.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>But, Sir, will you not receive money? 'Tis the mark of a Saint not to refuſe it.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>For what ſhould I receive it? or who ſhould give it me?</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>
+                  <note place="margin">Honeſtly ſpoke, Sir <hi>Harry.</hi>
+                  </note> I, and my Faction will, ſo you engage to be<g ref="char:EOLhyphen"/>tray your Truſt.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>'Tis fairly promiſed; but for ought I ſee, you have none, I will not ſay, for your ſelves; but none to pay your ſmall Army: and for us at Sea, you can hardly allow us Bisket. But would you then have me to betray my Truſt, Sir <hi>Harry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Yes, for the good of the Publick: and truly if you do not, I ſhall not take you for a Saint; for gold will tempt a Saint.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Truly, Sir <hi>Harry,</hi> though you have an Engliſh Noſe, yet you have got a Roman Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>But pray Sir <hi>Harry</hi> make good your Paradox.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>That I ſhall, and with eaſe. You ſeem to be unwilling to take money to betray your Truſt; now I ſhall make it out that you may: for, thoſe things we call ſins, are no ſins, if he that commits them do direct
+<pb n="7" facs="tcp:50895:4"/>his intention aright. As for example: Should you take money of us, out of a malicious deſign to betray your Truſt, <note place="margin">Excellent doctrine.</note> and be revenged upon thoſe that employed you, then it were a ſin: but your intention being di<g ref="char:EOLhyphen"/>rected to your own advantage and profit, which is a good to your ſelf, and a thing which a man may law<g ref="char:EOLhyphen"/>fully ſeek after, this makes it ceaſe to be a crime. Thus an Incumbent may without any mortal ſin, wiſh the death of him that hath a Penſion out of his Living: And a Son may wiſh the death of his Father, and re<g ref="char:EOLhyphen"/>joyce when it happens; provided, it proceed onely from a conſideration of the advantage which accrues to him thereby, and not out of any perſonal hatred.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Truly Sir <hi>Harry</hi> I have writ many a Sermon in the <hi>Abby,</hi> but never heard this doctrine before now.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>It may be ſo, Sir, but I have ſeen it practized before now, and could bring you the example of many profeſſors to prove it.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I have heard you ſpeak, Sir <hi>Harry,</hi> and the Vice-admiral may doe what he pleaſes; but if he would be perſwaded by me, I ſhould not adviſe him to run into hell head-long.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Surely, Mr. <hi>Scot,</hi> I never fear'd any ſuch place; and I thought you had been ſo much a States-man as not to have fear'd it neither.</p>
+            </sp>
+            <sp>
+               <speaker>Salmon.</speaker>
+               <p>Verily, I am perſwaded in my ſpirit, Mr. <hi>Law<g ref="char:EOLhyphen"/>ſon,</hi> that you ought to obey the
+<hi>Preſent</hi> power, truly I have alwayes obeyed the <hi>Preſent</hi> power, and I hope ſhall as long as I live.</p>
+            </sp>
+            <sp>
+               <speaker>Owen.</speaker>
+               <p>I thank the Lord I can be comformable to my Superiors, when they conform to my intereſt, and therefore Mr. Vice-admiral, truly I would have you be
+<pb n="8" facs="tcp:50895:5"/>conformable to them, ſince they ſeek to be conformable to you. Certainly if you will not own them, the Lord will own his own cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Courtney.</speaker>
+               <p>
+                  <note place="margin">With a to<g ref="char:EOLhyphen"/>baco pipe<g ref="char:EOLhyphen"/>in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mouth</note> For my part, I think out Diviſions do but give advantages to the common Enemy, and therefore I would have you make an end of theſe differences.</p>
+            </sp>
+            <sp>
+               <speaker>Vice.</speaker>
+               <p>Gentlemen, I ſee here you all ſpeak me fair for your own Intereſt: 'tis true, your
+<hi>Intelligencer General</hi> ſaid, that your Intereſt would not lie, but he is ſuch a lying fellow himſelf, that I can neither believe him, nor you neither for his ſake. But now I take of Intereſt, pray tell me what your Intereſt is.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Our Intereſt is the good of the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Vice.</speaker>
+               <p>So ſays <hi>Charls Stewart,</hi> but what reaſon have I to believe you more then him?</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>'Tis that we have fought for. No Kingſhip, and the Liberty of the Subject.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>What becomes then of the Privi<g ref="char:EOLhyphen"/>ledges of Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>My L. <hi>Lambert</hi> has taken them away, leſt they ſhould take away him:
+<note place="margin">You know his ſon was to marry <hi>Lamberts</hi> daughter, but we doubt the Match is ſpoil'd,</note> and truly my Intereſt is ſo woven with his, that I cannot ſafely forſake him.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>Why, then you are for a ſingle Per<g ref="char:EOLhyphen"/>ſon?</p>
+            </sp>
+            <sp>
+               <speaker>Vane</speaker>
+               <p>No! we will have <hi>Conſervators</hi> joyned with him.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>Conſervators! I underſtand not the word: and truly, Gentlemen, I am clearly againſt a Government of <hi>Hard Names.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>But the word may be explained; they are men elected to preſerve the peace of the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>By what power?</p>
+            </sp>
+            <pb n="9" facs="tcp:50895:5"/>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>By your <hi>Council of Officers,</hi> according to the <hi>Inſtrument</hi> of Government.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>What is become of that Inſtrument?</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>We did light our Tobacco with it in the Council-Chamber.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>And would you be governed by a thing which you have ſo contemptibly thrown away? Truly, Gentlemen, I ſee you would have ſomething, but know not what your ſelves: and therefore, as you may ſee in print, I do here again declare poſitively, for the laſt Parliament, whoſe ſubverſion you did, and ſtill do ſo laboriouſly intend.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>That's no Parliament, or, at moſt, but the <hi>Rump</hi> of a Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>The better able to ſit, Sir <hi>Harry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>But they will turn me out; and then people will cry, There goes the <hi>Parliament Fart.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>'Tis very probable: and I wiſh that they could ſo turn you out, that you might leave no ſtink be<g ref="char:EOLhyphen"/>hinde.</p>
+            </sp>
+            <sp>
+               <speaker>Saloway.</speaker>
+               <p>Truly, I wonder at you, Vice-Admiral, that you ſhould be for that which all the people hate,
+<hi>The Rump of a Parliament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>Then it ſeems, good man of Plums, the people do not hate you at all.</p>
+            </sp>
+            <sp>
+               <speaker>Saloway.</speaker>
+               <p>Alas, <hi>We</hi> care not for their hatred: and would you but ſtick by us with your Navy, then we ſhould have an Army to quell them, and we might then with as much eaſe ride upon the
+<hi>backs</hi> of the peo<g ref="char:EOLhyphen"/>ple, as on the backs of our Horſes. Beſides, it is a ſign that you are Epiſcopal, it being the attribute of a Biſhop to love Rumps.</p>
+            </sp>
+            <pb n="10" facs="tcp:50895:6"/>
+            <sp>
+               <speaker>Owen.</speaker>
+               <p>I hope not ſo, Major; for I love <hi>Rumps</hi> and <hi>Kidneys</hi> too, and yet I am no Biſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>Truly, Major, I finde neither of your Reaſons to be thorough-pac'd: for, as to the former, the Gentleman that ſpoke laſt, hath given you a ſuffi<g ref="char:EOLhyphen"/>cient anſwer: and as to the latter, give me leave to tell you, 'tis an ill time to ride the people, for I perceive them to be in a very
+<hi>skittiſh</hi> poſture.</p>
+            </sp>
+            <sp>
+               <speaker>Sal.</speaker>
+               <p>Really, Gentlemen, I think this difference might be eaſily reconciled: For I ſee the Vice-Admi<g ref="char:EOLhyphen"/>ral is for a Parliament; and if ſo, why may not ano<g ref="char:EOLhyphen"/>ther Parliament ſerve his turn as well as this? there<g ref="char:EOLhyphen"/>fore, ſay I, let us have a new Parliament, and a <hi>free one,</hi> once more elected. For, to ſay truth, Vice Ad<g ref="char:EOLhyphen"/>miral, ſhould that Parliament ſit which you ſtand for, we are utterly loſt: And what harm have we done you, that you ſhould ſeek our confuſion?</p>
+            </sp>
+            <sp>
+               <speaker>Owen.</speaker>
+               <p>What think you of a Parliament of women? Truly Vice-admiral, I am confident they would ſettle the Miniſtery, for I finde them very reſpective to me in particular.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-Admiral.</speaker>
+               <p>Sir, you ſpeak gravely, but not at all wiſely.</p>
+            </sp>
+            <sp>
+               <speaker>Salmon.</speaker>
+               <p>Certainly we might bound and confine the Election to ſuch qualifications, that neither you nor we might receive any prejudice by it. For my part I am clearly againſt Swearers and Whoremongers.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>And I am for no Cavaliers.</p>
+            </sp>
+            <sp>
+               <speaker>Courtney.</speaker>
+               <p>Nor I for Adulterers.</p>
+            </sp>
+            <sp>
+               <speaker>Saloway.</speaker>
+               <p>I am for no Papiſts.</p>
+            </sp>
+            <sp>
+               <speaker>Owen.</speaker>
+               <p>I would have them all gifted men, and <hi>Praiſe-God Barebones.</hi>
+               </p>
+            </sp>
+            <pb n="11" facs="tcp:50895:6"/>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>You talk, Gentlemen, as if you were to chuſe a Parliament in the <hi>Kingdom of Chriſt:</hi> for theſe Ex<g ref="char:EOLhyphen"/>ceptions are not to be made on Earth, unleſs you, Maſter <hi>Owen,</hi> can take ſinne out of the World. And as for <hi>Praiſe God Barebones,</hi> let us have no more of them for they deliver'd up our Liberties before into the hands of a ſingle Perſon. But, I pray Gen<g ref="char:EOLhyphen"/>tlemen, why do ye ſpeak againſt them whom you call the <hi>Rump?</hi> What power have you to hinder them? Doth not Sir <hi>Arthur</hi> increaſe? and the Vice-Ad<g ref="char:EOLhyphen"/>miral ſtand bravely to his Tackling for it? Then with what impudent faces can you make theſe Propoſals in the low ebbe of your condition? for my part, I think we are as wiſe as you, and as cunning as you, and as good men as you, and therefore why we may not go<g ref="char:EOLhyphen"/>vern as well as you, I know no reaſon?</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Truly, Vice-Admiral, this Gentleman hath ſpoke well; but the Government is now in our hands, and ſhould there be another. Change, and that ſo ſud<g ref="char:EOLhyphen"/>denly, what would our Neighbors, but accuſe us for the moſt light and inconſtant Nation of the whole World.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>In anſwer to this, I ſhall tell ye, that when you put them out, it was force, but if they put <hi>you</hi> out, you ought in Chriſti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n piety to ſuffer it: for you muſt do as you would be done unto. Now ſince you <hi>put</hi> the
+<hi>Change</hi> upon <hi>them,</hi> you muſt not take it ill that they <hi>put</hi> the
+<hi>Change</hi> upon you.</p>
+            </sp>
+            <sp>
+               <speaker>Saloway.</speaker>
+               <p>But this is not the way to ſettle the Na<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>And when do you think <hi>Lambert</hi> will ſettle it? Surely, he loves himſelf too well, to ſettle
+<pb n="12" facs="tcp:50895:7"/>the Nation before he ſettle himſelf; and when he will do that, who can tell, ſince he muſt ask <hi>Monck</hi> leave before he can do it. Or if he ſhould ſettle it, who will ſecure us that Sir <hi>Harry Vane</hi> will not trouble it again? I am ſure none of his friends in <hi>New-England,</hi> for they knew him too well, and were glad they were rid of him.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Had I known you would have been at this lock, I would ſoon have ſpoiled your troubling of us now.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>But now 'tis paſt your skill and cun<g ref="char:EOLhyphen"/>ning, good Sir <hi>Harry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>The worſe is my luck, and the better yours, Mr. Vice-Admiral. But give me leave, Sir, to tell you, You are not a little ungrateful.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>Accuſe not me, Sir <hi>Harry,</hi> are not you ſo, and does not all the world know that your Father was ſo before you?</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Is it then Reſolved upon the Queſtion, Mr. Vice-Admiral?</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>'Tis without Queſtion, Sir <hi>Harry,</hi> and that ſo ſtedfaſtly, that I am not to be moved by the moſt refined of your language.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Well! I have now been a Stateſman this twenty years: And I have been the <hi>Anak</hi> of many Fa<g ref="char:EOLhyphen"/>ctions, but I was never ſo deſerted, as now, before: and by a friend Vice-Admiral? <hi>Et tu quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Brute.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>'Twas time, Sir <hi>Harry,</hi> to call for aſſiſtance from the Sea, when you, like a
+<hi>State-Phaeton,</hi> had put the Nation into ſuch a flame.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>Come, come, Mr. <hi>Scot,</hi> you know what be<g ref="char:EOLhyphen"/>longs to Government, and you know what a ſweet thing
+<pb n="13" facs="tcp:50895:7"/>it is to be in Authority, and how ſowre a thing it is to leave it: and therefore you cannot blame me for en<g ref="char:EOLhyphen"/>devouring by all ways to ſecure my ſelf and intereſt.</p>
+            </sp>
+            <sp>
+               <speaker>Salmon.</speaker>
+               <p>Really, Sir, we have had experience of your diligence, and give you our hearty thanks; and ſhall juſtifie the ſame to the Commiſſioners, who, no doubt, will not be backward in rewarding your good ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>
+                  <note place="margin">Well ſaid, <hi>Tom Tell<g ref="char:EOLhyphen"/>troth.</hi>
+                  </note> But were not I more concerned than you or they either, ye might go drive Hogs all of ye, for me.</p>
+            </sp>
+            <sp>
+               <speaker>Vice-admiral.</speaker>
+               <p>Come, this high-ſoaring ſpirit of yours muſt ſtoop. You that walk upon the ſtilts of Ambi<g ref="char:EOLhyphen"/>tion, will fall at one time or other: and truly, I think, you had as good fall now as hereafter.</p>
+            </sp>
+            <sp>
+               <speaker>Sal.</speaker>
+               <p>But Mr. <hi>Scot,</hi> I have done no harm, I hope you will let me keep my ſmall imployment ſtill; though if you will not, I thank my God, I have made ſo good uſe of my time, that I can live with<g ref="char:EOLhyphen"/>out it.</p>
+            </sp>
+            <sp>
+               <speaker>Owen.</speaker>
+               <p>Truly, Mr. <hi>Scot,</hi> I came onely to give the Vice-Admiral a viſit; therefore, I truſt in the Lord, you will not put me out of my Living: Truly, I will preach for you too, when you are in authority.</p>
+            </sp>
+            <sp>
+               <speaker>Saloway.</speaker>
+               <p>I care not a pin for any of ye all, ſo you will let me have talk enough for my life.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>I ſcorn to beg; yet I believe I ſhall finde a trick to keep my Head upon my ſhoulders for all this.</p>
+            </sp>
+            <sp>
+               <speaker>Okey.</speaker>
+               <p>If you do, Sir <hi>Harry,</hi> 'tis more than three parts of four in the Nation deſire to ſee.</p>
+            </sp>
+            <pb n="14" facs="tcp:50895:8" rendition="simple:additions"/>
+            <p>The Debate being thus broke off, they returned to <hi>Wallingford</hi>-Houſe; The fruitleſneſs of the Journey was arrived at their ears before; ſo that when they ſaw Sir
+<hi>Harry,</hi> they look'd all as melancholly as Cars. Quoth he. <hi>I can do no good.</hi> Then
+<hi>Fleetwood</hi> turning his face to the wall, lifted up his voice, and wept. Then one ſtood up, and ſaid, <hi>Let us ſeek the Lord by faſt<g ref="char:EOLhyphen"/>ing and prayer.</hi> But it was rejected, in regard that <hi>Fleetwood</hi> looked ſo thin, that if he ſhould faſt one day more, his Soul and Body could not hold together. Whereupon they fell to debate their Agreement, which is now in print: But whether they will get ſuch terms as they require, a little time will make known. How<g ref="char:EOLhyphen"/>ever, the people take the Parliament for wiſe men, and therefore they expect that they ſhould ſo deal with this <hi>Hydra,</hi> as not to let one head thereof ſpring up any more, to violate their <hi>Priviledges,</hi> or the Nations <hi>Rights.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
